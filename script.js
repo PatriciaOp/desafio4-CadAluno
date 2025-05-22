@@ -139,7 +139,7 @@ document.getElementById('studentsForm').addEventListener('submit', function (e) 
           `).join('')}
         </table>
 
-        <h3>Estatistica</h3>
+        <h3>Estatística</h3>
         <table>
             <tr><th>Total Aprovados:</th><th>Total Reprovados:</th><th>Melhor Aluno:</th><th>Pior Aluno:</th></tr>
             <td>${totalAprovados}</td>
